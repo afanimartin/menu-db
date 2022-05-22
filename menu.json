@@ -1,0 +1,78 @@
+[
+            {
+                title: 'AMERICAN BREAKFAST',
+                price: 4500,
+                ingredient: 'Omelette, toast bread, jam & butter, sausage, cake, porridge, glass of juice, tea/coffee/milk'
+            },
+            {
+                title: 'FULL-ENGLISH BREAKFAST',
+                price: 3800,
+                ingredient: 'Fried egg, sausage, mushroom, toast bread, grilled tomatoes, tea/coffee/milk'
+            },
+            {
+                title: 'CONTINENTAL BREAKFAST',
+                price: 3100,
+                ingredient: 'Pastry items, fruit salad, juice, tea/coffee/milk'
+            },
+            {
+                title: 'PLAIN OMELETTE',
+                price: 2300,
+                ingredient: 'Egg, black pepper'
+            },
+            {
+                title: 'SPANISH OMELETTE',
+                price: 2500,
+                ingredient: 'Egg, black pepper, tomato, pepper, fresh herbs'
+            },
+            {
+                title: 'CHEESE OMELETTE',
+                price: 2950,
+                ingredient: 'Egg, cheese, black pepper, tomato, pepper, fresh herbs'
+            },
+            {
+                title: 'SCRAMBLED EGG',
+                price: 2500,
+                ingredient: 'Scrambled egg served with toast bread & salad' 
+            },
+            {
+                title: 'PANCAKE/WAFFLES',
+                price: 3000,
+                ingredient: 'Served with your choice of honey, chocolate or strawberry syrup'
+            },
+            {
+                title:'VANILLA-CINNAMON FRENCH TOAST',
+                price: 3000,
+                ingredient: 'Served with your choice of honey, chocolate or strawberry syrup' 
+            },
+            {
+                title: 'CROISSANTS',
+                price: 1200,
+                ingredient: 'Chocolate/ Cheese/ Almond/ Cinnamon rolls' 
+            },
+            {
+                title: 'FUL MEDAMES', 
+                price: 3300,
+                ingredient: 'Beans, shata, tomato Sauce, fresh herbs' 
+            },
+            {
+                title: 'FALAFEL',
+                price: 3400,
+                ingredient: 'Chickpeas, red onions, fresh parsley, garlic, cumin, black pepper served with tahini'
+
+            },
+            {
+                title: 'SAUSAGE',
+                price: 3400,
+                ingredient: 'Chicken or beef sausage accompanied by french fries' 
+            },
+            {
+                title: 'HOT OAT PORRIDGE',
+                price: 2300,
+                ingredient: 'Oat meal porridge served with milk & honey'
+            },
+            {
+                title: 'BREAKFAST CEREALS',
+                price: 2800,
+                ingredient: 'corn flakes in cold or hot milk' 
+            }
+        ]
